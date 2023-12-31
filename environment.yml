@@ -1,0 +1,10 @@
+name: Rtrial
+channels:
+  - conda-forge
+dependencies:
+  - r-base
+  - r-irkernel
+  - ipykernel
+  - pandas
+  - xarray
+prefix: /home/users/kchun/.conda/envs/Rtrial
