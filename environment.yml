@@ -6,6 +6,7 @@ dependencies:
   - r-irkernel
   - ipykernel
   - pandas
+  - matplotlib
   - numpy
   - xarray
 prefix: /home/users/kchun/.conda/envs/Rtrial
